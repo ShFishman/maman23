@@ -1,0 +1,9 @@
+אברהם שמעון פישמן 209086446.
+תשובות לשאלה 1:
+
+טענה א:
+הטענה אינה נכונה. ניתן לקבל קלט stdin גם מקובץ. וניתן לשלוח את השגיאות ואת הפלט גם אל קובץ.
+
+טענה ב: 
+הטענה נכונה לפי עמוד 195 בספר: "objects declared regeister are automatic and are(if possible)stored in FAST registers on the mechine... Static objects..retain their valus across exit from and reentry to functions and blocks".
+
